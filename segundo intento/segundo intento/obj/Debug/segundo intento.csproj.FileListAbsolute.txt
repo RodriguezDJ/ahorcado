@@ -1,0 +1,8 @@
+C:\Users\ScorpioI\OneDrive\Escritorio\proyecto algoritmos\segundo intento\segundo intento\obj\Debug\segundo intento.csproj.AssemblyReference.cache
+C:\Users\ScorpioI\OneDrive\Escritorio\proyecto algoritmos\segundo intento\segundo intento\obj\Debug\segundo intento.csproj.SuggestedBindingRedirects.cache
+C:\Users\ScorpioI\OneDrive\Escritorio\proyecto algoritmos\segundo intento\segundo intento\obj\Debug\segundo intento.csproj.CoreCompileInputs.cache
+C:\Users\ScorpioI\OneDrive\Escritorio\proyecto algoritmos\segundo intento\segundo intento\bin\Debug\segundo intento.exe.config
+C:\Users\ScorpioI\OneDrive\Escritorio\proyecto algoritmos\segundo intento\segundo intento\bin\Debug\segundo intento.exe
+C:\Users\ScorpioI\OneDrive\Escritorio\proyecto algoritmos\segundo intento\segundo intento\bin\Debug\segundo intento.pdb
+C:\Users\ScorpioI\OneDrive\Escritorio\proyecto algoritmos\segundo intento\segundo intento\obj\Debug\segundo intento.exe
+C:\Users\ScorpioI\OneDrive\Escritorio\proyecto algoritmos\segundo intento\segundo intento\obj\Debug\segundo intento.pdb
